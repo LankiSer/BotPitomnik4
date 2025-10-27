@@ -8,3 +8,6 @@ register_handlers(bot)
 
 # Запуск бота
 bot.polling(none_stop=True)
+
+
+print('test')
